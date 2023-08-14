@@ -1,6 +1,5 @@
-# codeacademy-js
 
-Complete Course Screenshot
+# Complete Course Screenshot
 ![image](https://github.com/rahib-Ahmed/codeacademy-js/assets/52162363/6ed3be58-23df-43e2-b360-2a419c109490)
 
 
