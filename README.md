@@ -28,5 +28,6 @@
 ![image](https://github.com/rahib-Ahmed/codeacademy-js/assets/52162363/4cc449a1-726d-4d78-a4a5-3cee79df46ee)
 
 ## Lesson 8
-![image](https://github.com/rahib-Ahmed/codeacademy-js/assets/52162363/09359104-377f-426a-86b3-676e4200af0b)
+![image](https://github.com/rahib-Ahmed/codeacademy-js/assets/52162363/75fd6f7b-42c6-4c18-8055-be22f1bc918e)
+
 
